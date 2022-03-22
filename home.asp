@@ -9,7 +9,7 @@ if session("uid")="" then
 %>
 <script>
 alert("Please login to continue.")
-window.open("default.asp","_self")
+window.open("index.asp","_self")
 </script>
 <%
 end if
