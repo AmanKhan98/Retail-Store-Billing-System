@@ -27,7 +27,7 @@ onmouseover="this.style.backgroundColor='#3A5D5F'"
 onmouseout="this.style.backgroundColor='#172727'">
 
 <input type="button" value="Login Page" 
-onclick="window.open('default.asp','_self')" 
+onclick="window.open('index.asp','_self')" 
 style="height:40px;width:100%;font-size:18px;font-family:Calibri Light;text-align:left;background-color:#172727;color:F2F2F2;"
 onmouseover="this.style.backgroundColor='#3A5D5F'" 
 onmouseout="this.style.backgroundColor='#172727'">
